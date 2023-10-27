@@ -1,0 +1,24 @@
+{
+  "Tinen": {
+    "amount": 0.0
+  },
+  "1": {
+    "firstName": "Test",
+    "lastName": "test",
+    "id": "1",
+    "incomes": {
+      "1": {
+        "id": "1",
+        "amount": 2000.0,
+        "date": "26/10",
+        "category": "SALARY"
+      },
+      "2": {
+        "id": "2",
+        "amount": 1000.0,
+        "date": "26/10",
+        "category": "SALARY"
+      }
+    }
+  }
+}
